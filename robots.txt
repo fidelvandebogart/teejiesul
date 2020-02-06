@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://taighaegu.frontyardprojects.org/sitemap.xml
